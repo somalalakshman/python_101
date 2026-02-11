@@ -1,4 +1,4 @@
-"""fruits = ["apple", "banana", "cherry", "date", "blueberry"]
+fruits = ["apple", "banana", "cherry", "date", "blueberry"]
 print(fruits)
 
 # list of strings
@@ -22,7 +22,7 @@ print(nested_list)
 students = [
     {"name": "Alice", "age": 20, "grade": "A"},
 ]
-print(students)"""
+print(students)
 
 # Acessing list elements - indexing and slicing
 fruits = ["apple", "banana", "cherry", "date", "blueberry"]
