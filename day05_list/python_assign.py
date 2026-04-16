@@ -86,7 +86,7 @@ largest = number[0]
 for n in number:
     if n > largest:
         largest = n
-print("The largest number is:", largest)"""
+print("The largest number is:", largest)
 
 #Write a program to check if a number is even or odd.
 
@@ -95,3 +95,32 @@ if num % 2 == 0:
 	print ("Even number")
 else:
 	print("Odd number")
+
+
+
+num = int(input("Enter a number: "))
+fact = 1
+
+for i in range(1,num+1):
+    fact = fact * i
+
+print("Factorial =", fact)
+"""
+
+
+#Right Triangle Pattern
+
+for i in range (1, 6):
+	print ("*" * i)
+	
+
+n = 5
+for i in range (1, n+1):
+    print (" " * (n-i) + "*" * i)
+    
+
+
+
+
+
+  

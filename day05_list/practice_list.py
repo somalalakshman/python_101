@@ -30,3 +30,21 @@ fruits = ["apple", "banana", "cherry", "date", "blueberry"]
 print(fruits[0])  
 print (fruits[4])
 print(fruits[3])
+
+
+my_list = ["milk", "bread", "eggs", "cheese", "butter"]
+print(my_list[1:4])
+
+# adding new elements to a list
+my_list.append("yogurt")
+print(my_list)  
+
+# remove the elements to a list 
+my_list.remove("butter")
+print(my_list)
+# modifying elements in a list
+my_list[2] = "orange juice"
+print(my_list)
+
+
+

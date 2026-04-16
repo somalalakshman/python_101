@@ -13,7 +13,6 @@ Perfect, Somala — let’s turn the roadmap into a **day-by-day study plan** so
 - **Day 6**: Practice mini-project — “Introduce Yourself” program.  
 - **Day 7**: Review & quiz yourself (write 5 small scripts using what you learned).  
 
----
 
 ## **Week 2: Control Flow**
 - **Day 8**: Conditionals (`if`, `elif`, `else`).  
