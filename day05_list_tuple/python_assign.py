@@ -121,6 +121,11 @@ for i in range (1, n+1):
 
 
 
+# find the intersection of two lists
+list1 = [1,5,6,8]
+list2 = [1,2,3,4,5,6] 
+intersection = list(set(list1) & set(list2))
+print("Intersection:", intersection)
 
 
   

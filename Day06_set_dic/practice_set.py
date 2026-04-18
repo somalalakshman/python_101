@@ -42,3 +42,20 @@ set_b = {3,4,5}
 
 sym_diff_set = set_a.symmetric_difference(set_b)
 print (sym_diff_set)
+
+
+#set operations
+fruits = {"apple", "banana", "cherry"}
+print(fruits)
+
+# adding an element 
+fruits.add("orange")
+print(fruits)
+
+#removing an element
+fruits.remove("banana")
+print(fruits)
+
+#removing an element using discard
+fruits.discard("grape") # it will not show error if the element is not in the set list
+print(fruits)
